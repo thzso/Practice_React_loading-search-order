@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Practice_React_loading-search-order/static/css/main.a8d47ff7.css",
+    "main.js": "/Practice_React_loading-search-order/static/js/main.a38bc5e6.js",
+    "index.html": "/Practice_React_loading-search-order/index.html",
+    "main.a8d47ff7.css.map": "/Practice_React_loading-search-order/static/css/main.a8d47ff7.css.map",
+    "main.a38bc5e6.js.map": "/Practice_React_loading-search-order/static/js/main.a38bc5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d47ff7.css",
+    "static/js/main.a38bc5e6.js"
+  ]
+}
